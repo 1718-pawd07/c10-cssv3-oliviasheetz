@@ -1,0 +1,46 @@
+/*
+* Olivia Sheetz
+* 10 April 2018
+* Classwork - 09
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	font-family: Arial, "Times New Roman," san-serif  
+	background-color: #FFC4F3;
+	color: black;
+}
+
+h1 {
+	text-decoration: underline;
+	text-align: center; 
+	font-size: 30pt;
+	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	background-color: #87CEFA;  
+	color: rgb(0,0,128)
+	
+}
+
+p {
+	background-color: white;
+	color: rgb(0,0,128) 
+
+}
+
+img {
+	float: right;
+	height: 200px;
+	width: 350px;
+	
+}
